@@ -1,0 +1,48 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "9f21ef123613ed887fa77b2c0c233033",
+    "packages": [
+        {
+            "name": "habibullinrustam/skobka_library",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mrFanBender/skobka_library.git",
+                "reference": "015924528a1be772ab6c67381f9df6d84a6a89ae"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mrFanBender/skobka_library/zipball/015924528a1be772ab6c67381f9df6d84a6a89ae",
+                "reference": "015924528a1be772ab6c67381f9df6d84a6a89ae",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Habibullin Rustam",
+                    "email": "habibullinrustam@yandex.ru"
+                }
+            ],
+            "description": "otus lesson1 homework",
+            "time": "2018-01-08T22:42:31+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "habibullinrustam/skobka_library": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

@@ -1,0 +1,21 @@
+{
+    "name": "habibullinrustam/lesson1",
+    "description": "lesson1 project",
+    "type": "project",
+    "require": {
+        "habibullinrustam/skobka_library": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Habibullin Rustam",
+            "email": "habibullinrustam@yandex.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+	"autoload":{
+		"psr-4":{
+			"habibullinrustam\\":"vendor/habibullinrustam"
+		}
+	}
+}
